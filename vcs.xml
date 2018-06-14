@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="bartaeva89" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bartaeva89/QuakeReport.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\Barta Eva Anna\Desktop\QuakeReport" />
   </component>
 </application>
